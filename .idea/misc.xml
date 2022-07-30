@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/Users/7748/AndroidStudioProjects/retrofit/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/7748/AndroidStudioProjects/retrofit/app/src/main/res/layout/photo_layout.xml" value="0.27049180327868855" />
+        <entry key="..\:/Users/Ahmed_Maher/StudioProjects/retrofit/app/src/main/res/layout/activity_main.xml" value="0.17426545086119555" />
+        <entry key="..\:/Users/Ahmed_Maher/StudioProjects/retrofit/app/src/main/res/layout/photo_layout.xml" value="0.17426545086119555" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
